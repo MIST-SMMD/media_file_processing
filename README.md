@@ -1,4 +1,4 @@
-# MIST-SMMD: Media file process
+# MIST-SMMD: Media File Data Processing
 > The content of this repository contains the implementation source code for media file process in the MIST-SMMD project.
 
 ## Video Stabilization Frame to Image
