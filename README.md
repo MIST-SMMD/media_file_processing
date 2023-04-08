@@ -3,7 +3,7 @@
 
 ## Video Stabilization Frame to Image
 Using the OpenCV library in Python, frames from a video are computed and extracted using the optical flow method to obtain relatively stable frames, which are then saved as JPEG images.
-### origin video
+### original Video
 ![video](/doc/image/video.gif)
 ### frame extraction
 ![frame](doc/image/20230408201448.png)
